@@ -1,4 +1,4 @@
-/// This proposal disables module publishing, including upgrades.
+/// This proposal reduces the per-epoch voting power increase limit from 20% to 10%.
 script {
     use aptos_framework::aptos_governance;
     use aptos_framework::staking_config;
