@@ -1,7 +1,7 @@
 {
     "title": "Reduce the per-epoch voting power increase limit from 20% to 10%",
-    "description": "Reduce the per-epoch voting power increase limit from 20% to 10%",
-    "source_code_url": "",
-    "discussion_url": ""
+    "description": "Reduce the per-epoch voting power increase limit from 20% to 10%. This was set to 20% to help bootstrap the network quickly after genesis.",
+    "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/a258c3edeea31fb01090d994dcb50571b3795b44/sources/0-reduce-increase-limit-to-10.move",
+    "discussion_url": "https://aptos.dev"
 }
 
