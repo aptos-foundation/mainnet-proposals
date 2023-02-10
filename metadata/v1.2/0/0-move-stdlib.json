@@ -1,0 +1,7 @@
+{
+    "title": "Update aptos framework to v1.2",
+    "description": "Update move stdlib package to the version compiled from git hash cb4ba0a57c998c60cbab65af31a64875d2588ca5 at bytecode format v5. See release note for details: https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.2.4.",
+    "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.2/0/0-move-stdlib.move",
+    "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/6557"
+}
+
