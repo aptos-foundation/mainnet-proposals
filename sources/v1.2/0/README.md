@@ -18,7 +18,7 @@ Run the following steps for each of the 4 upgrade proposals:
   ```
 3. Verify that the proposal is created on chain by going to https://governance.aptosfoundation.org/
 
-# Verification
+# Additional verification
 If you want to verify that the proposals here are correctly generated, follow these instructions:
 1. Download v1.2.0-mainnet.yaml from this directory. You can additionally verify that the content of the yaml makes sense.
 2. Generate the proposal scripts: Run `cargo run -p aptos-release-builder -- generate-proposals --release-config <PATH_TO_YAML> --output-dir <PATH_TO_OUTPUT_DIR>`
