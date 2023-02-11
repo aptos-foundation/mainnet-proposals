@@ -18,6 +18,13 @@ Run the following steps for each of the 4 upgrade proposals:
      --profile mainnet-voter
   ```
 3. Verify that the proposal is created on chain by going to https://governance.aptosfoundation.org/
+4. Optionally, verify the proposal off chain by running (replace proposal id with the right one from (3))
+```
+cargo run -p aptos -- governance verify-proposal --proposal-id [proposal-id] \
+     --script-path /path/to/proposal.move \
+     --framework-local-dir /path/to/aptos-core/aptos-move/framework/aptos-framework/ \
+     --profile mainnet-voter
+```
 
 # Additional verification
 If you want to verify that the proposals here are correctly generated, follow these instructions:
