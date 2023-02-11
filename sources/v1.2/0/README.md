@@ -17,3 +17,13 @@ Run the following steps for each of the 4 upgrade proposals:
      --profile mainnet-voter
   ```
 3. Verify that the proposal is created on chain by going to https://governance.aptosfoundation.org/
+
+# Verification
+If you want to verify that the proposals here are correctly generated, follow these instructions:
+1. Download v1.2.0-mainnet.yaml from this directory. You can additionally verify that the content of the yaml makes sense.
+2. Generate the proposal scripts: Run `cargo run -p aptos-release-builder -- generate-proposals --release-config <PATH_TO_YAML> --output-dir <PATH_TO_OUTPUT_DIR>`
+3. Verify that the contents are the same. You can use checksum hashes to do this quickly by checking that the hashes between what you generated and what's in this directory match. For example:
+```
+$ shasum -a 256 mainnet/proposals/0/0-move-stdlib.move
+5626e9d6b88c8836c15d6a8d2f2197560305ed54c46e2f73de94fb87a1dd4857  mainnet/proposals/0/0-move-stdlib.move
+```
