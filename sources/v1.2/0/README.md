@@ -9,7 +9,8 @@ We want to space these proposals out so they're created with an hour in between 
 
 Run the following steps for each of the 4 upgrade proposals:
 1. Verify that the metadata is correct (code location needs to be a raw Github link, discussion points to the correct topic in the forum)
-2. To create a proposal on-chain, in the aptos-core repo, run
+2. Download the aptos-core Github repo and make sure you're on the main branch: https://github.com/aptos-labs/aptos-core
+3. To create a proposal on-chain, in the aptos-core repo, run
   ```
   cargo run -p aptos -- governance propose --metadata-url <url-to-metadata-file.json> \
      --pool-address $pool_address --script-path /path/to/proposal.move \
