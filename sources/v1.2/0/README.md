@@ -22,7 +22,7 @@ Run the following steps for each of the 4 upgrade proposals:
 ```
 cargo run -p aptos -- governance verify-proposal --proposal-id [proposal-id] \
      --script-path /path/to/proposal.move \
-     --framework-local-dir /path/to/aptos-core/aptos-move/framework/aptos-framework/ \
+     --framework-git-rev aptos-node-v1.2.0 \
      --profile mainnet-voter
 ```
 
