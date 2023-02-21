@@ -1,5 +1,5 @@
 // Framework commit hash: aptos-cli-v0.2.0-3650-gcb4ba0a
-// Builder commit hash: aptos-cli-v0.2.0-4053-gbd7166e2fc
+// Builder commit hash: aptos-cli-v0.2.0-4145-g397a412fb6
 // Upgrade proposal for package `MoveStdlib`
 
 // source digest: 7361DD6E744B239B4E07CA0F80029CC66459B9869E3B28C0867EA878EA070EB0
@@ -12,7 +12,7 @@ script {
         let framework_signer = aptos_governance::resolve_multi_step_proposal(
             proposal_id,
             @0000000000000000000000000000000000000000000000000000000000000001,
-            vector[40u8,197u8,96u8,92u8,202u8,115u8,170u8,86u8,102u8,43u8,243u8,178u8,35u8,41u8,141u8,112u8,48u8,238u8,201u8,13u8,20u8,157u8,61u8,126u8,40u8,114u8,83u8,163u8,41u8,81u8,203u8,168u8,],
+            vector[249u8,79u8,231u8,216u8,162u8,246u8,65u8,136u8,211u8,201u8,163u8,95u8,58u8,119u8,129u8,13u8,233u8,241u8,90u8,146u8,133u8,144u8,167u8,39u8,49u8,73u8,152u8,16u8,229u8,229u8,201u8,103u8,],
         );
         let code = vector::empty();
         let chunk0 =

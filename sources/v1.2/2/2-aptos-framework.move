@@ -1,5 +1,5 @@
 // Framework commit hash: aptos-cli-v0.2.0-3650-gcb4ba0a
-// Builder commit hash: aptos-cli-v0.2.0-4053-gbd7166e2fc
+// Builder commit hash: aptos-cli-v0.2.0-4145-g397a412fb6
 // Upgrade proposal for package `AptosFramework`
 
 // source digest: 1BCC6723B2B270D8953FF90F29167A247C6DFF4D44E0D3E155A62E61A4A6E77D
@@ -12,7 +12,7 @@ script {
         let framework_signer = aptos_governance::resolve_multi_step_proposal(
             proposal_id,
             @0000000000000000000000000000000000000000000000000000000000000001,
-            vector[41u8,216u8,82u8,96u8,216u8,136u8,39u8,211u8,172u8,89u8,245u8,238u8,0u8,114u8,240u8,139u8,84u8,53u8,238u8,232u8,252u8,235u8,234u8,160u8,149u8,142u8,184u8,133u8,138u8,117u8,162u8,203u8,],
+            vector[155u8,108u8,186u8,170u8,209u8,130u8,210u8,90u8,30u8,158u8,82u8,46u8,73u8,16u8,191u8,150u8,47u8,19u8,164u8,139u8,100u8,204u8,161u8,161u8,178u8,20u8,37u8,77u8,252u8,147u8,228u8,87u8,],
         );
         let code = vector::empty();
         let chunk0 =
