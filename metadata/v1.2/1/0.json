@@ -1,6 +1,6 @@
 {
-    "title": "Multi step upgrade proposal to set on chain flags to 1.2",
-    "description": "Update the gas schedule, on chain feature flags and consensus config. This will enable AIP-1 by changing the consensus flag. See release note for details: https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.2.4",
+    "title": "Multi step upgrade to set on chain feature flags and consensus config to v1.2",
+    "description": "Update the on chain feature flags and consensus config. This will enable AIP-1 by changing the consensus flag. It will also enable two feature flags for "code_dependency_check" and "treat_friend_as_private". See release note for details: https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.2.4",
     "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.2/1/0-gas-schedule.move",
     "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/6557"
 }
