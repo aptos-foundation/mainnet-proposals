@@ -1,3 +1,4 @@
+// Script hash: c16a96c3 
 // Consensus config upgrade proposal
 
 // config: V1(
