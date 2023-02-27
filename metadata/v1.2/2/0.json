@@ -1,7 +1,7 @@
 {
     "title": "Multi step upgrade for aptos framework to enable view function",
     "description": "Update the aptos framework to the version with commit hash cb4ba0a57c998c60cbab65af31a64875d2588ca5. The source should be exactly the same as the one in 1.2.0 but this time they will be compiled with Move bytecode version v6 to enable the new view function. See release note for details: https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.2.4",
-    "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.2/1/0-gas-schedule.move",
+    "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.2/2",
     "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/6557"
 }
 
