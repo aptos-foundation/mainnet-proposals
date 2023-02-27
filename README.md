@@ -30,8 +30,10 @@
   cargo run -p aptos -- governance propose --metadata-url <url-to-metadata-file.json> \
      --pool-address $pool_address --script-path /path/to/proposal.move \
      --framework-local-dir /path/to/aptos-core/aptos-move/framework/aptos-framework/ \
+     --is_multi-step \
      --profile mainnet-voter
   ```
+ --is-multi-step is required for proposals that have multiple steps
 4. To vote on a proposer, use the UI at https://governance.aptosfoundation.org/ or run
 `cargo run -p aptos -- governance vote --proposal-id <proposal-id> --pool-addresses $pool_address_1,$pool_address_2 --yes/no`
 5. To execute a proposal that has passed, in the aptos-core repo, run
@@ -40,3 +42,4 @@
      --script-path path/to/proposal.move --max-gas 500000 \
      --framework-local-dir /path/to/aptos-core/aptos-move/framework/aptos-framework/
   ```
+ If the proposal has multiple steps, run the above command for each of the steps (with --script-path pointing to each specific step)
