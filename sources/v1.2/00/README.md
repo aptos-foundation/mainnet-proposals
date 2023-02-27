@@ -28,7 +28,7 @@ aptos governance verify-proposal --proposal-id [proposal-id] \
 ```
 5. When the proposal is ready to execute, run
 ```
-aptos governance resolve --proposal-id <proposal id> \
+aptos governance execute-proposal --proposal-id <proposal id> \
      --bytecode-version 5 \
      --script-path /path/to/proposal.move \
      --framework-local-dir /path/to/aptos-core/aptos-move/framework/aptos-framework/ \
