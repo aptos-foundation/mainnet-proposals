@@ -2,6 +2,6 @@
     "title": "Multi step upgrade for aptos framework for AIP 13",
     "description": "Update the aptos framework for AIP 13 https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-13.md. This adds aptos_account::transfer_coins with implicit registration of CoinType and multiple batch transfer functions",
     "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.2/3",
-    "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/6557"
+    "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/24"
 }
 
