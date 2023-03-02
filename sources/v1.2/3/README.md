@@ -1,6 +1,6 @@
-To create a multi step proposal on-chain, in the aptos-core repo on main branch, run
+To create a multi step proposal on-chain, in the aptos-core repo on main branch, run from the main branch:
 ```
-aptos governance propose --is-multi-step true \
+cargo run -p aptos -- governance propose --is-multi-step \
   --metadata-url https://raw.githubusercontent.com/aptos-foundation/mainnet-proposals/main/metadata/v1.2/3/0.json \
   --pool-address $pool_address \
   --script-path /path/to/mainnet-proposals/sources/v1.2/3/0-move-stdlib.move \
