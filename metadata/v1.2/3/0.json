@@ -1,6 +1,6 @@
 {
-    "title": "Multi step upgrade for aptos framework for AIP 13 and AIP 14",
-    "description": "Update the aptos framework for AIP 13 https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-13.md, and AIP 14 https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-14.md. This adds aptos_account::transfer_coins with implicit registration of CoinType and multiple batch transfer functions, also fixes a bug in the vesting contract for reward distribution.",
+    "title": "Multi step upgrade for aptos framework for AIP 13",
+    "description": "Update the aptos framework for AIP 13 https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-13.md. This adds aptos_account::transfer_coins with implicit registration of CoinType and multiple batch transfer functions",
     "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.2/3",
     "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/24"
 }
