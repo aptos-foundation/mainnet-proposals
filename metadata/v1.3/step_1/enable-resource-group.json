@@ -1,0 +1,6 @@
+{
+  "title": "Enable resource groups (AIP 9) on mainnet",
+  "description": "More details regarding resource groups can be found at https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-9.md",
+  "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.3.0/step_1/0-features.move",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/7508"
+}

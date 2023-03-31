@@ -1,0 +1,9 @@
+---
+testnet: false
+is_multi_step: true
+framework_release:
+  bytecode_version: 6
+  git_hash: 882531ab8fc9ef7074e5b21639a6cc0a02fe46af
+gas_schedule: ~
+consensus_config: ~
+feature_flags: ~

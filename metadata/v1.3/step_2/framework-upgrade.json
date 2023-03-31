@@ -1,0 +1,6 @@
+{
+  "title": "Multi-step proposal to upgrade mainnet framework to v1.3.0",
+  "description": "This includes changes outlined in https://github.com/aptos-labs/aptos-core/releases/aptos-node-v1.3.0. Multisig account v2, delegations and new hashing functions will need to be enabled separately in other governance proposals.",
+  "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.3.0/step_2",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/7508"
+}
