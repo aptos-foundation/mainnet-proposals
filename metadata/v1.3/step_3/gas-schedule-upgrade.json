@@ -1,0 +1,6 @@
+{
+  "title": "Upgrade gas schedule to reduce gas costs and decouple storage gas charges (AIP 17)",
+  "description": "This includes changes outlined in https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-17.md",
+  "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.3.0/step_3",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/7508"
+}
