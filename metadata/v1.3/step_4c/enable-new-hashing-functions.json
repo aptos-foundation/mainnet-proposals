@@ -1,0 +1,6 @@
+{
+  "title": "Enable new cryptography natives for hashing and MultiEd25519 PK validation (AIP 16) on mainnet",
+  "description": "More details can be found at https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-16.md",
+  "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.3.0/step_4c/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/57"
+}
