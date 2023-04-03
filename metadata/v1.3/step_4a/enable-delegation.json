@@ -1,0 +1,6 @@
+{
+  "title": "Enable staking delegations (AIP 6) on mainnet",
+  "description": "More details regarding staking delegations can be found at https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-6.md",
+  "source_code_url": "https://github.com/aptos-labs/mainnet-proposals/blob/main/sources/v1.3.0/step_4a/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/20"
+}
