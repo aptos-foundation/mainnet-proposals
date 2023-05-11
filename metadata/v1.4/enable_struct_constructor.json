@@ -1,0 +1,6 @@
+{
+  "title": "Enable Struct Constructor Feature",
+  "description": "AIP-25: Enable some select set of structs as valid parameters to entry and view functions.",
+  "source_code_url": "TBD",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/104"
+}
