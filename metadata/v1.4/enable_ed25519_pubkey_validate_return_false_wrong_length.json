@@ -1,0 +1,6 @@
+{
+  "title": "Enable ed25519_pubkey_validate_return_false_wrong_length",
+  "description": "AIP-23: Make ed25519 public key validation return none if key has the wrong length.",
+  "source_code_url": "TBD",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/102"
+}
