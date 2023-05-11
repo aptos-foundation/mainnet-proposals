@@ -1,0 +1,6 @@
+{
+  "title": "Enable the new signature checker",
+  "description": "This enables the improved signature checker implementation.",
+  "source_code_url": "TBD",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/pull/7856"
+}
