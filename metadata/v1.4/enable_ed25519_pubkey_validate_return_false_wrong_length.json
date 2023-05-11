@@ -1,6 +1,6 @@
 {
   "title": "Enable ed25519_pubkey_validate_return_false_wrong_length",
   "description": "AIP-23: Changes the function native_public_key_validate used by the native Move function native fun pubkey_validate_internal to return false if the public key provided is the wrong length. Previously, this function would abort if the key length provided was incorrect.",
-  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/v1.4/enable_ed25519_pubkey_validate_return_false_wrong_length/0-features.move",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/v1.4/enable_ed25519_pubkey_validate_return_false_wrong_length",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/102"
 }
