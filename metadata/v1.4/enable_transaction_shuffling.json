@@ -1,6 +1,6 @@
 {
   "title": "Enable Transaction Shuffling",
-  "description": "TBD",
-  "source_code_url": "TBD",
-  "discussion_url": "TBD"
+  "description": "AIP-27: Sender-aware shuffling enables the shuffling of transactions within a single block so that transactions from the same sender are apart from each other as much as possible. This is done to reduce the number of conflicts and re-execution during parallel execution. Our end-to-end performance benchmark show that sender-aware shuffling can improve the TPS by 25%.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/v1.4/enable_transaction_shuffling",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/109"
 }
