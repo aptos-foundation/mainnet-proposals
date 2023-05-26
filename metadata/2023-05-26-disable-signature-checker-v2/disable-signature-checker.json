@@ -1,0 +1,6 @@
+{
+    "title": "Disable the new signature checker",
+    "description": "Due to an issue with specific modules that were deployed before a change in the Move verifier that more strictly enforces struct abilities in Nov 2022, some old modules might now fail to load with the new signature checker",
+    "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2023-05-26-disable-signature-checker-v2",
+    "discussion_url": "https://github.com/aptos-foundation/mainnet-proposals/issues/26"
+}
