@@ -3,7 +3,15 @@
 [![](https://mermaid.ink/img/pako:eNp1kMGKAjEMhl-l5NQF3QeYw4JOZU9e3MXL1kPoZLTSNkNtdUV9dzsjCiLmFP7_S8ifExhuCCpoHR_MBmMSv0oHUWryp6i1gQSKLnLHO3QrMR5_netImHr50_OeRGsdncVUPuQ7_XHbM-2HRC2XXFwOr0A9AEpOumLs6R0wkwvakkmvvhr8bzn7J5OfT4AReIoebVMynnpcQ9qQJw1VaQPlFNFp0OFSUMyJf47BQJViphHkrimRlMV1RA9Vi25XVGps4ji__W143-UKZJlo6w?type=png)](https://mermaid.live/edit#pako:eNp1kMGKAjEMhl-l5NQF3QeYw4JOZU9e3MXL1kPoZLTSNkNtdUV9dzsjCiLmFP7_S8ifExhuCCpoHR_MBmMSv0oHUWryp6i1gQSKLnLHO3QrMR5_netImHr50_OeRGsdncVUPuQ7_XHbM-2HRC2XXFwOr0A9AEpOumLs6R0wkwvakkmvvhr8bzn7J5OfT4AReIoebVMynnpcQ9qQJw1VaQPlFNFp0OFSUMyJf47BQJViphHkrimRlMV1RA9Vi25XVGps4ji__W143-UKZJlo6w)
 
 ## Define a proposal:
-1. Use the following template:
+
+1. Create a proposal script:
+    
+    **[Option 1] Use release builder tool**
+    - Define the list of change in a YAML file, e.g. [release.yaml](https://github.com/aptos-labs/aptos-core/blob/main/aptos-move/aptos-release-builder/data/release.yaml) in aptos-core
+    - After the YAML file is approved, run `cargo run -p aptos-release-builder -- generate-proposals --release-config <PATH_TO_YAML> --output-dir <PATH_TO_OUTPUT_DIR>` to generate upgrade scripts
+    
+    **[Option 2] Manual process**
+    - Use the following template:
 
     ```
     script {
