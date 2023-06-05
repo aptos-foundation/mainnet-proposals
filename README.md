@@ -3,7 +3,7 @@
 1. Create a proposal script:
     
     **[Option 1] Use release builder tool**
-    - Define the list of change in [release.yaml file](https://github.com/aptos-labs/aptos-core/blob/main/aptos-move/aptos-release-builder/data/release.yaml) in aptos-core
+    - Define the list of change in a YAML file, e.g. [release.yaml](https://github.com/aptos-labs/aptos-core/blob/main/aptos-move/aptos-release-builder/data/release.yaml) in aptos-core
     - After the YAML file is approved, run `cargo run -p aptos-release-builder -- generate-proposals --release-config <PATH_TO_YAML> --output-dir <PATH_TO_OUTPUT_DIR>` to generate upgrade scripts
     
     **[Option 2] Manual process**
