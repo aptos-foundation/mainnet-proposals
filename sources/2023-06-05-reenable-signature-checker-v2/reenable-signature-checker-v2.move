@@ -21,6 +21,5 @@ script {
         ];
 
         features::change_feature_flags(&framework_signer, enabled_blob, disabled_blob);
-        reconfiguration::reconfigure_with_signer(&framework_signer);
     }
 }
