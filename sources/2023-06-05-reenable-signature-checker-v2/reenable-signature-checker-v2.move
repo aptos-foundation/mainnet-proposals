@@ -6,7 +6,6 @@
 script {
     use aptos_framework::aptos_governance;
     use std::features;
-    use aptos_framework::reconfiguration;
     use std::vector;
 
     fun main(proposal_id: u64) {
@@ -21,5 +20,7 @@ script {
         ];
 
         features::change_feature_flags(&framework_signer, enabled_blob, disabled_blob);
+        // Trigger reconfiguration, which ends current epoch, to ensure synching of new changes.
+        aptos_governance::reconfigure(&framework_signer);
     }
 }
