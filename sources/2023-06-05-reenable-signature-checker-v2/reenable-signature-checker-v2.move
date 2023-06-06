@@ -1,4 +1,4 @@
-// Script hash: a33117ee 
+// Script hash: 3385f925
 // Modifying on-chain feature flags:
 // Enabled Features: [SignatureCheckerV2]
 // Disabled Features: []
@@ -20,7 +20,6 @@ script {
         ];
 
         features::change_feature_flags(&framework_signer, enabled_blob, disabled_blob);
-        // Trigger reconfiguration, which ends current epoch, to ensure synching of new changes.
         aptos_governance::reconfigure(&framework_signer);
     }
 }
