@@ -1,6 +1,6 @@
 {
   "title": "Enable Transaction Dedup",
   "description": "AIP-37: Filter duplicate transactions within a block",
-  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.5.0/v1.5/step_4_enable_transaction_dedup",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.5/step_4_enable_transaction_dedup",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/160"
 }
