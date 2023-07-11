@@ -1,6 +1,6 @@
 {
   "title": "Multi-step proposal to upgrade mainnet framework to v1.5.0",
-  "description": "This includes changes outlined in https://github.com/aptos-labs/aptos-core/releases/aptos-node-v1.5.0. bls12381, crytography algebra natives, and charging for invariant violations will be enabled in separate proposals.",
+  "description": "This includes changes outlined in https://github.com/aptos-labs/aptos-core/releases/aptos-node-v1.5.0. The proposal will upgrade Aptos framework to v1.5.0 and enables fungible assets.",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.5/step_1_upgrade_framework",
   "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/8574"
 }
