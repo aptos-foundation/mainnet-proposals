@@ -1,0 +1,6 @@
+{
+  "title": "Proposal to upgrade mainnet framework to v1.5.1",
+  "description": "This includes changes outlined in https://github.com/aptos-labs/aptos-core/releases/aptos-node-v1.5.1. New public functions in aptos_token to make creating tokens and collections easier.",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/8574"
+}
