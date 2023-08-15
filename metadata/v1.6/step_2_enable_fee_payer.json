@@ -1,0 +1,6 @@
+{
+  "title": "Enable fee payer",
+  "description": "AIP-39: Support secondary fee payer to pay gas cost on behalf of the sender.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.6/step_2_enable_fee_payer",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-39.md"
+}

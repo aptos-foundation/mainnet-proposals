@@ -1,0 +1,6 @@
+{
+  "title": "Multi-step proposal to upgrade mainnet framework to v1.6",
+  "description": "This includes changes outlined in https://github.com/aptos-labs/aptos-core/releases/aptos-node-v1.6.0",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.6/step_1_upgrade_framework",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/9656"
+}

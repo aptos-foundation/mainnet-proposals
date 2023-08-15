@@ -1,0 +1,6 @@
+{
+  "title": "Enable partial voting",
+  "description": "AIP-28:  Partial voting for on chain governance.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.6/step_4_enable_partial_voting",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-28.md"
+}

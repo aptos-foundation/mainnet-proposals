@@ -1,0 +1,6 @@
+{
+  "title": "Enable Aptos Unique Identifiers",
+  "description": "AIP-36: Support for aptos unique identifiers (generated using native function generate_unique_address)",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.6/step_3_enable_aptos_unique_identifiers",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/154"
+}
