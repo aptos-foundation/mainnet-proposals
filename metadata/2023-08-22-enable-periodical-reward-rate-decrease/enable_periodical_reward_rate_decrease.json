@@ -1,0 +1,6 @@
+{
+  "title": "Enable yearly reward rate decrease based on Tokenomics",
+  "description": "AIP-30: Implement decrease in staking rewards",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2023-08-22-enable-periodical-reward-rate-decrease",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/119"
+}
