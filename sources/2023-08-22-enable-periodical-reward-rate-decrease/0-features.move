@@ -1,4 +1,4 @@
-// Script hash: fd2543be 
+// Script hash: b37ac572 
 // Modifying on-chain feature flags:
 // Enabled Features: [PeriodicalRewardRateReduction]
 // Disabled Features: []
@@ -6,9 +6,10 @@
 script {
     use aptos_framework::aptos_governance;
     use std::features;
+    use std::vector;
 
     fun main(proposal_id: u64) {
-        let framework_signer = aptos_governance::resolve(proposal_id, @0000000000000000000000000000000000000000000000000000000000000001);
+        let framework_signer = aptos_governance::resolve_multi_step_proposal(proposal_id, @0000000000000000000000000000000000000000000000000000000000000001, vector::empty<u8>());
 
         let enabled_blob: vector<u64> = vector[
             16,
