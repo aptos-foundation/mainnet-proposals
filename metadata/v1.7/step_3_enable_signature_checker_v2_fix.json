@@ -1,6 +1,6 @@
 {
   "title": "Enable a fix signature checker v2",
   "description": "Fixing a counting bug",
-  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.7/step_3_enable_signature_checker_v2_fix",
   "discussion_url": "https://github.com/aptos-labs/aptos-core"
 }
