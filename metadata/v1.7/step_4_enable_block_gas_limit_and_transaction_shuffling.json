@@ -1,0 +1,6 @@
+{
+  "title": "Enable Block Gas Limit and Transaction Shuffling",
+  "description": "AIP-33: The block gas limit is a feature that terminates block execution when the gas consumed by the committed prefix of transactions exceeds the limit, thus providing predictable latency. AIP-27: Sender Aware Transaction Shuffling",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.7/step_4_enable_block_gas_limit_and_transaction_shuffling",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/132 https://github.com/aptos-foundation/AIPs/issues/109"
+}
