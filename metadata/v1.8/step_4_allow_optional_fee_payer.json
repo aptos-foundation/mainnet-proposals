@@ -1,6 +1,6 @@
 {
   "title": "AIP-53: Make Fee Payer Address Optional in Transactions Authenticator",
-  "description": "AIP-53: Make Fee Payer Address Optional in Transactions Authenticator.",
+  "description": "AIP-53: makes it easier for a client to submit a sponsored transaction and make the knowledge of the ultimate payer optional",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.8/step_4_allow_optional_fee_payer",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/257"
 }
