@@ -1,0 +1,6 @@
+{
+  "title": "Reduce the maximum identifier size",
+  "description": "This reduces the maximum identifier size for (de)serializer of Move binary format",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.8/step_5_reduce_ident_size_max",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/pull/10502"
+}
