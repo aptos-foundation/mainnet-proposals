@@ -1,0 +1,6 @@
+{
+  "title": "Multi-step proposal to upgrade mainnet framework to v1.8.1",
+  "description": "This includes changes in https://github.com/aptos-labs/aptos-core/tree/aptos-framework-v1.8.1",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.8.1/step_1_upgrade_framework",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+}
