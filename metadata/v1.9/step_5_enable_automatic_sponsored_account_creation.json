@@ -1,0 +1,6 @@
+{
+  "title": "AIP-52: Automated Account Creation for Sponsored Transactions",
+  "description": "AIP-52: Automated Account Creation for Sponsored Transactions.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.9/step_5_enable_automatic_sponsored_account_creation",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/258"
+}
