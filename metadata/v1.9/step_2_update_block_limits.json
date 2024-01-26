@@ -1,0 +1,6 @@
+{
+  "title": "AIP-57: Block Output Size Limit and Conflict-Aware Block Gas Limit",
+  "description": "AIP-57: Block Output Size Limit and Conflict-Aware Block Gas Limit",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.9/step_1_increase_max_txn_gas",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/285"
+}
