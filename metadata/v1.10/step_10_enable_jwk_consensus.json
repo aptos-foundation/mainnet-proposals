@@ -1,0 +1,6 @@
+{
+  "title": "AIP-67: Native Consensus for JSON Web Key (JWK)",
+  "description": "AIP-67: This AIP proposes a solution for validators to agree on OpenID Connect providers' JSON Web Keys.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.10/step_10_enable_jwk_consensus",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/331"
+}

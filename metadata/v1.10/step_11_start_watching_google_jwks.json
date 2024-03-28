@@ -1,0 +1,6 @@
+{
+  "title": "Start JWK consensus for Google",
+  "description": "JWK Consensus (AIP-67) for Google enables Google-based keyless accounts (AIP-61).",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.10/step_11_start_watching_google_jwks",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/331"
+}

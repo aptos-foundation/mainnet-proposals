@@ -1,0 +1,6 @@
+{
+  "title": "Max Object Nesting Check",
+  "description": "Enable the max object nesting check, preventing running out of gas due to ownership cycles.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.10/step_8_enable_max_object_nesting_check",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.10.0"
+}

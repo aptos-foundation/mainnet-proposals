@@ -1,0 +1,6 @@
+{
+  "title": "AIP-54: Object Code Deployment",
+  "description": "AIP-54: Introduces a method to deploy code to objects, allowing more modular and resource efficient development.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.10/step_5_object_code_deployment",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/259"
+}

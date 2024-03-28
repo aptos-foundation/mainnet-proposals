@@ -1,0 +1,6 @@
+{
+  "title": "AIP-65: Storage Fee for State Bytes refundable",
+  "description": "AIP-65: This refunds storage fee charged according to the size of a state slot and stop penalizing large state items by charging non-refundable storage fee each time it is updated.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.10/step_3_storage_fee_for_state_bytes_refundable",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/328"
+}
