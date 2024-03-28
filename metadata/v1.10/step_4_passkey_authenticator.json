@@ -1,0 +1,6 @@
+{
+  "title": "AIP-66: Passkey Accounts",
+  "description": "AIP-66: The first WebAuthn Authenticator for Aptos, enabling users to utilize passkeys and other WebAuthn credentials for transaction authentication.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.10/step_4_passkey_authenticator",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/322"
+}
