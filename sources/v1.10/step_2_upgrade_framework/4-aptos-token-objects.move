@@ -1,6 +1,6 @@
-// Script hash: b4f31f18 
-// Framework commit hash: dd7efc1748ac4741ac3ea880a3bc3cd1f464110d
-// Builder commit hash: dd7efc1748ac4741ac3ea880a3bc3cd1f464110d
+// Script hash: ac9737e5 
+// Framework commit hash: 2a28867a7dad84233375b236d38b3189d9b3f4c7
+// Builder commit hash: 2a28867a7dad84233375b236d38b3189d9b3f4c7
 // Upgrade proposal for package `AptosTokenObjects`
 
 // source digest: DB249C0F8D019CEBC1F37D3E2960F3E685C7FE9A639340B9E1AE14B968830668
@@ -13,7 +13,7 @@ script {
         let framework_signer = aptos_governance::resolve_multi_step_proposal(
             proposal_id,
             @0x4,
-            vector[11u8,133u8,230u8,120u8,243u8,217u8,92u8,28u8,162u8,7u8,80u8,223u8,253u8,79u8,199u8,138u8,89u8,138u8,116u8,8u8,76u8,181u8,79u8,52u8,5u8,101u8,209u8,11u8,183u8,17u8,136u8,89u8,],
+            vector[55u8,86u8,182u8,148u8,13u8,88u8,167u8,248u8,76u8,203u8,23u8,70u8,17u8,76u8,243u8,47u8,33u8,190u8,195u8,13u8,200u8,135u8,101u8,65u8,224u8,206u8,82u8,165u8,91u8,110u8,11u8,34u8,],
         );
         let code = vector::empty();
         let chunk0 =

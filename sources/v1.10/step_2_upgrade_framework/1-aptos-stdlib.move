@@ -1,6 +1,6 @@
-// Script hash: 298ead3e 
-// Framework commit hash: dd7efc1748ac4741ac3ea880a3bc3cd1f464110d
-// Builder commit hash: dd7efc1748ac4741ac3ea880a3bc3cd1f464110d
+// Script hash: 99ee99ec 
+// Framework commit hash: 2a28867a7dad84233375b236d38b3189d9b3f4c7
+// Builder commit hash: 2a28867a7dad84233375b236d38b3189d9b3f4c7
 // Upgrade proposal for package `AptosStdlib`
 
 // source digest: D26E6738D284C4EF763D1BB7107BD594FBC3A166359C1B10D90C7CE319DF3343
@@ -13,7 +13,7 @@ script {
         let framework_signer = aptos_governance::resolve_multi_step_proposal(
             proposal_id,
             @0x1,
-            vector[64u8,233u8,75u8,246u8,142u8,154u8,251u8,212u8,199u8,130u8,201u8,111u8,101u8,36u8,231u8,64u8,136u8,25u8,124u8,165u8,190u8,133u8,217u8,128u8,124u8,163u8,209u8,107u8,161u8,143u8,1u8,180u8,],
+            vector[87u8,235u8,232u8,32u8,83u8,78u8,220u8,174u8,158u8,216u8,115u8,108u8,156u8,89u8,9u8,106u8,154u8,113u8,199u8,70u8,76u8,138u8,162u8,141u8,251u8,248u8,156u8,245u8,157u8,240u8,86u8,47u8,],
         );
         let code = vector::empty();
         let chunk0 =

@@ -1,6 +1,6 @@
-// Script hash: 3fb11ada 
-// Framework commit hash: dd7efc1748ac4741ac3ea880a3bc3cd1f464110d
-// Builder commit hash: dd7efc1748ac4741ac3ea880a3bc3cd1f464110d
+// Script hash: 1e930caf 
+// Framework commit hash: 2a28867a7dad84233375b236d38b3189d9b3f4c7
+// Builder commit hash: 2a28867a7dad84233375b236d38b3189d9b3f4c7
 // Upgrade proposal for package `MoveStdlib`
 
 // source digest: EF470F5698F593A2DBE7FAB073A38DB3CDC13D6D55ADC5A06C72C52482FE22CD
@@ -13,7 +13,7 @@ script {
         let framework_signer = aptos_governance::resolve_multi_step_proposal(
             proposal_id,
             @0x1,
-            vector[41u8,142u8,173u8,62u8,196u8,190u8,214u8,106u8,253u8,232u8,1u8,172u8,160u8,35u8,94u8,125u8,147u8,253u8,131u8,220u8,46u8,111u8,240u8,186u8,235u8,150u8,121u8,1u8,68u8,5u8,212u8,193u8,],
+            vector[153u8,238u8,153u8,236u8,71u8,158u8,18u8,228u8,146u8,251u8,146u8,220u8,115u8,22u8,237u8,255u8,21u8,78u8,186u8,187u8,150u8,115u8,135u8,132u8,50u8,117u8,148u8,187u8,129u8,19u8,105u8,250u8,],
         );
         let code = vector::empty();
         let chunk0 =
