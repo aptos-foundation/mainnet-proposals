@@ -1,0 +1,6 @@
+{
+  "title": "AIP-43: Enable Concurrent Digital Assets (Token V2) and Aggregator V2 API",
+  "description": "AIP-43: This AIP proposes a solution to speedup minting and burning of Digital Assets (Token v2), by parallelizing them",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.10/step_6_enable_concurrent_digital_assets",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/209"
+}

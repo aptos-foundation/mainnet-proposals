@@ -1,0 +1,6 @@
+{
+  "title": "AIP-47: Enable Aggregator v2 parallelism",
+  "description": "AIP-47: This step enables the backend that makes execution of Aggregators V2 parallel.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.10/step_7_enable_aggregator_v2_parallelism",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/226"
+}
