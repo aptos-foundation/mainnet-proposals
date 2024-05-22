@@ -1,0 +1,6 @@
+{
+  "title": "AIP-31: Allowlisting for delegation pools",
+  "description": "AIP-31: This AIP introduces the concept of allowlisting in delegation pools, allowing pool owners to control who can stake in their delegation pool.",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/121"
+}
