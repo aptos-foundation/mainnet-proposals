@@ -1,0 +1,6 @@
+{
+  "title": "AIP-82: Transaction context extension",
+  "description": "AIP-82: This AIP proposes an extension to the transaction context module within the Aptos Framework.",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/420"
+}
