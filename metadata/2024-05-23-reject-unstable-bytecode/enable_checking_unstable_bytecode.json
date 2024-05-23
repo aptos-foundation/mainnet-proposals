@@ -1,0 +1,6 @@
+{
+  "title": "Enable the compilation metadata and the check to reject unstable bytecode to be published to mainnet",
+  "description": "Enable the compilation metadata and reject unstable bytecode to be published to mainnet",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/pull/12814"
+}
