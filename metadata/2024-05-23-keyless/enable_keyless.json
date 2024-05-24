@@ -1,6 +1,6 @@
 {
   "title": "Enable privacy-preserving keyless accounts",
   "description": "Enables the changes in AIP-61 https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-61.md and related AIPs (75, 81)",
-  "source_code_url": "",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2024-05-23-keyless",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/297"
 }
