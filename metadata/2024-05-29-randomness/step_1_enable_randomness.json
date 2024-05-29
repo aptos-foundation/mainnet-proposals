@@ -1,0 +1,6 @@
+{
+  "title": "Randomness",
+  "description": "Enable randomness API v0 and then randomness infrastructure. AIP: https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-79.md",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/407"
+}
