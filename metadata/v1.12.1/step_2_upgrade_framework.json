@@ -1,6 +1,6 @@
 {
-  "title": "Multi-step proposal to upgrade mainnet framework to v1.12",
-  "description": "This includes changes in https://github.com/aptos-labs/aptos-core/commits/aptos-release-v1.12",
+  "title": "Multi-step proposal to upgrade mainnet framework to v1.12.1",
+  "description": "remove bn254 point verification from keyless initialzation",
   "source_code_url": "https://github.com/aptos-labs/aptos-core",
   "discussion_url": "https://github.com/aptos-labs/aptos-core"
 }
