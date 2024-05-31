@@ -1,6 +1,6 @@
 // Script hash: a801d256 
-// Framework commit hash: 29c154d2431ac0673fcb3f2b0eee3fb0bdb279a2
-// Builder commit hash: 29c154d2431ac0673fcb3f2b0eee3fb0bdb279a2
+// Framework commit hash: 813659871c7ca81e2a207a1aa5547ab55408db3a
+// Builder commit hash: 813659871c7ca81e2a207a1aa5547ab55408db3a
 // Upgrade proposal for package `AptosTokenObjects`
 
 // source digest: A3455EFFE8A67E85B7054D83A9E733D75682012D3425145D88B4F471DAA5CCF5
