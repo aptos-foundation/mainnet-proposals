@@ -1,0 +1,6 @@
+{
+  "title": "Gas schedule upgrade",
+  "description": "Upgrades the gas schedule to version 18, enabling separate limits for governance proposals",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+}
