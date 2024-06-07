@@ -1,6 +1,6 @@
 {
   "title": "Increase max txn gas temporarily for framework upgrade",
   "description": "Increase max txn gas temporarily for framework upgrade",
-  "source_code_url": "https://github.com/aptos-labs/aptos-core",
-  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.13/step_1_upgrade_gas_schedule",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.13.0"
 }
