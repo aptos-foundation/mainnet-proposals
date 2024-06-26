@@ -1,0 +1,6 @@
+{
+  "title": "AIP-90: Add Apple to OIDC list for Keyless",
+  "description": "AIP-90: Add Apple to OIDC list for Keyless",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2024-06-26-add-apple-oidc/0-add_apple_oidc.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/459"
+}
