@@ -1,0 +1,6 @@
+{
+  "title": "Enable limiting of MoveVM type sizes",
+  "description": "Enables new type builder with corrected type size computations",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-07-02-enable-limit-vm-type-size",
+  "discussion_url": "https://github.com/aptos-foundation/mainnet-proposals/issues/76"
+}
