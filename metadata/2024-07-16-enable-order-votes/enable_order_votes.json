@@ -1,0 +1,6 @@
+{
+  "title": "Enable the order votes feature in the on chain consensus config",
+  "description": "Enables the changes in AIP-89 https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-89.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-07-16-enable-order-votes",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/451"
+}
