@@ -1,0 +1,6 @@
+{
+  "title": "Enable the mapping from coin to fungible asset, including APT",
+  "description": "Enables the changes in AIP-63 https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-63.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2024-07-24-enable-coin-to-fa-migration",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/326"
+}
