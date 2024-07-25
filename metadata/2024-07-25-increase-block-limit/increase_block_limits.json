@@ -1,0 +1,6 @@
+{
+  "title": "AIP-74: Increase block gas limit to account for concurrency increase",
+  "description": "AIP-74: Increase block gas limit to account for concurrency increase",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-07-25-increase-block-limit/0-execution-config.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/375"
+}
