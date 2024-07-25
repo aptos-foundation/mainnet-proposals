@@ -1,0 +1,6 @@
+{
+  "title": "Enable BN254 algebra",
+  "description": "Enable BN254 algebra",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-07-17-enable-bn254/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/437"
+}
