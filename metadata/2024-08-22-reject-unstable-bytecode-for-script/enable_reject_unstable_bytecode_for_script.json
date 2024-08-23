@@ -1,0 +1,6 @@
+{
+  "title": "Enable the check to reject script of unstable bytecode on mainnet",
+  "description": "Enable the check to reject script of unstable bytecode on mainnet",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-08-22-reject-unstable-bytecode-for-script",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/pull/14099"
+}
