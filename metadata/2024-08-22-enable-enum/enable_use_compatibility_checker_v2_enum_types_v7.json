@@ -1,0 +1,6 @@
+{
+  "title": "Enable compatibility checker v2, enum types and format V7",
+  "description": "Enable the feature flag for compatibility checker v2, enum type and binary format V7",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-08-22-enable-enum",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/pull/481"
+}
