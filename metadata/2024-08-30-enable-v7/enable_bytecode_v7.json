@@ -1,0 +1,6 @@
+{
+  "title": "Enable bytecode version 7",
+  "description": "Enable bytecode version 7",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-08-30-enable-v7",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/pull/14124"
+}
