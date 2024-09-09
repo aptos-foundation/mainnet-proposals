@@ -1,6 +1,6 @@
 {
   "title": "Multi-step proposal to upgrade mainnet framework, version v1.18",
   "description": "This includes changes in https://github.com/aptos-labs/aptos-core/releases/tag/aptos-framework-v1.18.0",
-  "source_code_url": "https://github.com/aptos-labs/aptos-core/commit/e36cecd123791c2f04e3b602280df5002117c99e",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/v1.18/proposal_1_upgrade_framework",
   "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/14541"
 }
