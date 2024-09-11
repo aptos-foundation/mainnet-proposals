@@ -1,6 +1,7 @@
 script {
     use aptos_framework::aptos_governance;
     use aptos_framework::staking_config;
+    use std::vector;
 
     fun main(proposal_id: u64) {
         let framework_signer = aptos_governance::resolve_multi_step_proposal(proposal_id, @0000000000000000000000000000000000000000000000000000000000000001, vector::empty<u8>());
