@@ -1,0 +1,6 @@
+{
+    "title": "Reduce stake lockup duration to 14 days and governance voting duration to 3 days per community vote",
+    "description": "Reduce stake lockup duration to 14 days and governance voting duration to 3 days per community vote",
+    "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-09-11-reduce-stake-lockup-duration",
+    "discussion_url": "https://github.com/aptos-foundation/AIPs/pull/474"
+}
