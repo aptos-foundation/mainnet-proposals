@@ -1,6 +1,6 @@
 {
   "title": "Enable bytecode version 7",
-  "description": "Enable bytecode version 7",
+  "description": "This proposal enables the deployment of Move bytecode version 7 on mainnet. Version 7 supports new language features of Move 2. However, all those features remain disabled via individual feature flags, making this change functionally a no-op. The major purpose of this change to allow users to deploy default output of compiler v2 (v7 bytecode) on mainnet as long as they do not use certain Move 2 features.",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-08-30-enable-v7",
   "discussion_url": "https://github.com/aptos-labs/aptos-core/pull/14124"
 }
