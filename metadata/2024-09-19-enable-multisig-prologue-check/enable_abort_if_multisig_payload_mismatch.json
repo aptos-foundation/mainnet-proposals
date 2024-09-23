@@ -1,0 +1,6 @@
+{
+  "title": "Enable the multisig prologue check to abort if the multisig payload does not match",
+  "description": "Aborts the multisig transaction if the provided payload does not match the payload stored onchain",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2024-09-19-enable-multisig-prologue-check",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.15.0"
+}
