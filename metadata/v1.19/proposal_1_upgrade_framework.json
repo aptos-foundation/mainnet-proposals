@@ -1,0 +1,6 @@
+{
+  "title": "Multi-step proposal to upgrade mainnet framework, version v1.19",
+  "description": "This includes changes in https://github.com/aptos-labs/aptos-core/commits/aptos-release-v1.19",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+}
