@@ -1,6 +1,5 @@
 script {
     use aptos_framework::aptos_governance;
-    use aptos_framework::staking_config;
     use std::vector;
 
     fun main(proposal_id: u64) {
@@ -8,7 +7,7 @@ script {
         aptos_governance::update_governance_config(
             &framework_signer,
             aptos_governance::get_min_voting_threshold(),
-            100000000000000,
+            100000000000000, // 1M APT
             aptos_governance::get_voting_duration_secs(),
         );
         aptos_governance::reconfigure(&framework_signer);
