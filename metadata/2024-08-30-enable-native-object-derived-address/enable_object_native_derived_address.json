@@ -1,0 +1,6 @@
+{
+  "title": "Enable the native call to compute object derived address",
+  "description": "Enables the changes in AIP-85 https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-85.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-08-30-enable-native-object-derived-address/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/458"
+}
