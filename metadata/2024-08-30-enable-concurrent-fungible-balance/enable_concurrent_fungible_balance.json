@@ -1,0 +1,6 @@
+{
+  "title": "Enable for accounts to opt-in into concurrent fungible balance",
+  "description": "Enables the changes in AIP-70 https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-70.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-08-30-enable-concurrent-fungible-balance/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/359"
+}
