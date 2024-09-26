@@ -10,6 +10,5 @@ script {
             100000000000000, // 1M APT
             aptos_governance::get_voting_duration_secs(),
         );
-        aptos_governance::reconfigure(&framework_signer);
     }
 }
