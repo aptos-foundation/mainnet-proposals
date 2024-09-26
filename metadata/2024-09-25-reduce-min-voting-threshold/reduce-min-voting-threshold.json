@@ -1,0 +1,6 @@
+{
+  "title": "Reduce minimal stake required to submit governance proposal from 10M to 1M",
+  "description": "This proposal is applying the change from AIP 98, to reduce minimal stake required to submit governance proposal from 10M to 1M",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2024-09-25-reduce-min-voting-threshold",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/502"
+}
