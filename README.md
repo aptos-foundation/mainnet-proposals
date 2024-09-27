@@ -40,6 +40,7 @@
 4. Upload the proposal to this GitHub repository using the proper naming conventions outlined below:
     - Add the metadata to the [metadata folder](https://github.com/aptos-foundation/mainnet-proposals/tree/main/metadata)
       * This includes the `title`, `description` of the proposal, `source_code_url` link to .move file, and `discussion_url` link to GH Issue
+    - Create a PR and fill out this [template](https://github.com/aptos-foundation/mainnet-proposals/blob/main/.github/PULL_REQUEST_TEMPLATE.md) in the description
     - Add the move file to the [sources folder](https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources0).
 
 ## Create a proposal on-chain
