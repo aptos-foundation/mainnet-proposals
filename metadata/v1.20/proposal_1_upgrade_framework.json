@@ -1,6 +1,6 @@
 {
-  "title": "Multi-step proposal to upgrade mainnet framework, version TBD",
-  "description": "This includes changes in (TBA: URL to changes)",
-  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "title": "Multi-step proposal to upgrade mainnet framework, version 1.20",
+  "description": "This includes changes in https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.20.1",
+  "source_code_url": "hhttps://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.20.1",
   "discussion_url": "https://github.com/aptos-labs/aptos-core"
 }
