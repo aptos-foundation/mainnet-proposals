@@ -1,18 +1,17 @@
-// Script hash: be45f282 
+// Script hash: cd29f319 
 // Modifying on-chain feature flags:
-// Enabled Features: [UseCompatibilityCheckerV2, EnableEnumTypes, VMBinaryFormatV7]
+// Enabled Features: [UseCompatibilityCheckerV2, EnableEnumTypes]
 // Disabled Features: []
 //
 script {
     use aptos_framework::aptos_governance;
     use std::features;
-    use std::vector;
 
     fun main(proposal_id: u64) {
-        let framework_signer = aptos_governance::resolve_multi_step_proposal(proposal_id, @0x1, vector::empty<u8>());
+        let framework_signer = aptos_governance::resolve_multi_step_proposal(proposal_id, @0x1, x"");
 
         let enabled_blob: vector<u64> = vector[
-            73, 74, 40,
+            73, 74,
         ];
 
         let disabled_blob: vector<u64> = vector[
