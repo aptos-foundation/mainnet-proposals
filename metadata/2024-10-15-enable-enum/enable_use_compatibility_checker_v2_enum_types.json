@@ -1,0 +1,6 @@
+{
+  "title": "Enable AIP 91 - compatibility checker v2 and enum types",
+  "description": "Enable the feature flag to use compatibility checker v2 and enum type, see details in AIP 91 https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-91.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-10-15-enable-enum",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/pull/481"
+}
