@@ -1,6 +1,0 @@
-{
-  "title": "Enable compatibility checker v2 and enum types",
-  "description": "Enable the feature flag to use compatibility checker v2 and enum type",
-  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-10-18-enable-enum-fix-hash",
-  "discussion_url": "https://github.com/aptos-foundation/AIPs/pull/481"
-}
