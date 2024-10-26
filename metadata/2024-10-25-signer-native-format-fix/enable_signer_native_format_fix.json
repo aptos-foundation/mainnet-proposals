@@ -1,0 +1,6 @@
+{
+  "title": "Enable the signer native format fix",
+  "description": "Fixes the issue of string_utils::native_format in formatting signer values",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-10-25-signer-native-format-fix/0-features.move",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/8865"
+}
