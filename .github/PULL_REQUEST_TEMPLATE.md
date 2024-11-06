@@ -2,6 +2,7 @@
 <!-- Please include a short summary about this new proposal, add AIP link here if it's corresponding to an AIP. If it does not associated with any AIP, explain why this is required-->
 AIP: 
 Release:
+Type: <Technical/Tokenomics>
 
 ## Security Consideration
 <!-- Please include a short summary about the security auditing result. e.g. Audited by OtterSec / audited by Aptos Labs team, all security concerns addressed. -->
