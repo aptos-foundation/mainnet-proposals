@@ -1,0 +1,6 @@
+{
+  "title": "Enable the transaction simulation enhancement",
+  "description": "Enables the transaction simulation enhancement described in AIP-92 (https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-92.md)",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-11-07-transaction-simulation-enhancement/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/493"
+}
