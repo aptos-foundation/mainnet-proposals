@@ -1,0 +1,6 @@
+{
+  "title": "Collection Owner feature flag",
+  "description": "Enable creating collections with permissions as the owner of the collection",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+}
