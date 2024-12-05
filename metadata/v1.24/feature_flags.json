@@ -1,0 +1,6 @@
+{
+  "title": "Enable loader V2 feature flag",
+  "description": "Enable using V2 loader for MoveVM and AptosVM",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+}
