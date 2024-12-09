@@ -1,4 +1,5 @@
-tle": "Enable AIP 95 Collection Owner",
+{
+  "title": "Enable AIP 95 Collection Owner",
   "description": "Enable creating collections with permissions as the owner of the collection",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2024-12-09-enable-collection-owner/enable-collection-owner.move",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/489"
