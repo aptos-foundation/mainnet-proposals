@@ -1,4 +1,4 @@
-// Script hash: d62195fc 
+// Script hash: 10bc7fd1 
 // Execution config upgrade proposal
 
 // config: V4(
