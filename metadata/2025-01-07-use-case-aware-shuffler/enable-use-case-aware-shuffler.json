@@ -1,6 +1,6 @@
 {
   "title": "Enable the Use Case Aware Shuffler",
-  "description": "Enables the changes in AIP-86",
-  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-01-07-enable-use-case-aware-shuffler/enable-use-case-aware-shuffler.move",
+  "description": "Enables the changes in AIP-68",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-01-07-use-case-aware-shuffler/enable-use-case-aware-shuffler.move",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/333"
 }
