@@ -1,4 +1,4 @@
-// Script hash: 79af26e1 
+// Script hash: 6acb055f 
 script {
     use aptos_framework::keyless_account;
     use aptos_framework::aptos_governance;
