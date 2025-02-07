@@ -1,0 +1,6 @@
+{
+    "title": "Reduce minimal voting threshold required from 400M APT to 300M APT",
+    "description": "Enables the changes in AIP-110, reduce minimal voting threshold required from 400M APT to 300M APT",
+    "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-02-07-reduce-min-voting-threshold/reduce-min-voting-threshold.move",
+    "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/551"
+  }
