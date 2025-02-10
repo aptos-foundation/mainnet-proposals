@@ -1,0 +1,6 @@
+{
+  "title": "Disallow init module to attempt to publish modules",
+  "description": "This feature improves module publishing developer experience, amd is required for V2 loader",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-10-02-disallow-init-module-to-publish-modules/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/533"
+}
