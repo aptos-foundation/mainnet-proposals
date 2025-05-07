@@ -1,0 +1,6 @@
+{
+  "title": "AIP-71: Refactor Aptos Framework Events with Module Events",
+  "description": "This AIP refactor the aptos framework events to module events except for coin module",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-04-16-module-event-migration/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/367"
+}
