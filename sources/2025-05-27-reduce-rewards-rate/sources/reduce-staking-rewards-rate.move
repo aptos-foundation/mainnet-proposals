@@ -119,7 +119,7 @@ script {
     use aptos_framework::aptos_governance;
 
     fun main(proposal_id: u64) {
-        let framework_signer = aptos_governance::resolve_multi_step_proposal(proposal_id, @0000000000000000000000000000000000000000000000000000000000000001, vector[]);
+        let framework_signer = aptos_governance::resolve_multi_step_proposal(proposal_id, @0x1, vector[]);
         AIP119::do_aip::do_proposal(&framework_signer);
         // Trigger reconfiguration for changes to take effect immediately
         aptos_governance::reconfigure(&framework_signer);

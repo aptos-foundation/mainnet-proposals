@@ -2,7 +2,7 @@ script {
     use aptos_framework::aptos_governance;
 
     fun main(proposal_id: u64) {
-        let framework_signer = aptos_governance::resolve_multi_step_proposal(proposal_id, @0000000000000000000000000000000000000000000000000000000000000001, vector[]);
+        let framework_signer = aptos_governance::resolve_multi_step_proposal(proposal_id, @0x1, vector[]);
 
         let seconds_in_year: u64 = 60 * 60 * 24 * 365;
 
