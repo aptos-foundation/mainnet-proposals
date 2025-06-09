@@ -1,0 +1,11 @@
+[package]
+name = 'AIP119'
+version = '1.0.0'
+upgrade_policy = 'compatible'
+
+[dependencies]
+AptosStdlib = { git = "https://github.com/mirage-protocol/aptos-core.git", subdir = "aptos-move/framework/aptos-stdlib/", rev = "expose-staking-rewards-config-for-testing" }
+AptosFramework = { git = "https://github.com/mirage-protocol/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "expose-staking-rewards-config-for-testing" }
+
+[addresses]
+AIP119 = "0x55554444"
