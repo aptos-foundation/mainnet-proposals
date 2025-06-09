@@ -13,10 +13,16 @@ script {
         // get the number of epochs in a year
         let epoch_seconds = block::get_epoch_interval_secs();
         let num_epochs_in_a_year = seconds_in_year / epoch_seconds;
+        // AIP reduction is 25 basis points per year, we multiply the denominator by the number of epochs in a year
+        // to get the reduction per epoch, that accumulates over the year as a 25bps reduction
         let aip_reduction = fixed_point64::create_from_rational(25, 10_000 * (num_epochs_in_a_year as u128));
+        // subtract the AIP reduction from the previous rewards rate
         let new_rewards_rate = prev_epoch_rewards_rate.sub(aip_reduction);
 
         // remaining values are unchanged
+        // "raw" values are stored in 0x1::staking_config::StakingRewardsConfig
+        // StakingRewardsConfig can be found here:
+        // https://mainnet.aptoslabs.com/v1/accounts/0x1/resource/0x1::staking_config::StakingRewardsConfig
         let min_rewards_rate = fixed_point64::create_from_raw_value(136874841026924);
         let rewards_rate_period_sec = seconds_in_year; // unchanged, 1 year
         let rewards_rate_decrease_rate = fixed_point64::create_from_raw_value(276701161105643274); // unchanged
