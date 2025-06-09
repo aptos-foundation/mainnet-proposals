@@ -1,8 +1,11 @@
 script {
     use aptos_framework::aptos_governance;
+    use aptos_framework::staking_config;
+    use aptos_framework::block;
+    use aptos_framework::fixed_point64;
 
     fun main(proposal_id: u64) {
-        let framework_signer = aptos_governance::resolve_multi_step_proposal(proposal_id, @0x1, vector[]);
+        let framework_signer = &aptos_governance::resolve_multi_step_proposal(proposal_id, @0x1, vector[]);
 
         let seconds_in_year: u64 = 60 * 60 * 24 * 365;
 
@@ -37,6 +40,7 @@ script {
         );
 
         // Trigger reconfiguration for changes to take effect immediately
-        aptos_governance::reconfigure(&framework_signer);
+        aptos_governance::reconfigure(framework_signer);
     }
 }
+
