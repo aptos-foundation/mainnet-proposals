@@ -1,0 +1,6 @@
+{
+  "title": "New Accounts Default to FA Store",
+  "description": "This is a preparation stemp for AIP-63 that all new accounts will create FA store instead of coin store",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-06-11-new-accounts-default-to-fa-store/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-85.md"
+}
