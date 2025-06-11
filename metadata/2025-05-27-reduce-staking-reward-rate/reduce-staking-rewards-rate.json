@@ -1,6 +1,6 @@
 {
   "title": "AIP 119 - Reduce staking rewards rate by 0.25%",
-  "description": "This proposal will reduce staking rewards rate by 0.25%, the first reduction accroding to AIP 119",
+  "description": "This proposal will reduce the staking rewards rate by 0.25%, marking the first reduction implemented under AIP-119.",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-05-27-reduce-rewards-rate/reduce-staking-rewards-rate.move",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/587"
 }
