@@ -1,0 +1,6 @@
+{
+  "title": "Disable CONCURRENT_FUNGIBLE_BALANCE",
+  "description": "This proposal temporarily disables the use of aggregator-based concurrent fungible store due to a known issue involving epilogue execution, which can cause unintended aborts in certain cases.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-06-12-disable-concurrent-fa-balance/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-70.md"
+}
