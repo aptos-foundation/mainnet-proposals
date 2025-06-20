@@ -2,5 +2,5 @@
   "title": "AIP 104 - Enable Account Abstraction",
   "description": "Enable Account Abstraction, see AIP-104 for details",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2025-06-17-account-abstraction/0-features.move",
-  "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-104.md"
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/617"
 }
