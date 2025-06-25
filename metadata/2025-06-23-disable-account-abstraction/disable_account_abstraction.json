@@ -1,0 +1,6 @@
+{
+  "title": "Disable Account Abstraction",
+  "description": "Disable Account Abstraction, see AIP-104 for details",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-06-23-disable-account-abstraction/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-104.md"
+}
