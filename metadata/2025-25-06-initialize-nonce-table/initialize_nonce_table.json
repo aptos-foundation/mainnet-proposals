@@ -2,5 +2,5 @@
   "title": "Initialize Nonce Table",
   "description": "Initializes the nonce table",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-25-06-initialize-nonce-table/0-initialize_nonce_table.move",
-  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/593"
 }
