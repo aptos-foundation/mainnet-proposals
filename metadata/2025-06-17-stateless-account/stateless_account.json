@@ -2,5 +2,5 @@
   "title": "AIP 115: Enable Stateless Account",
   "description": "Enables DEFAULT_ACCOUNT_RESOURCE feature that will automatically create account resource whenever necessary, read details in AIP 115",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-06-17-stateless-account/0-features.move",
-  "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-115.md"
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/621"
 }
