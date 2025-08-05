@@ -1,0 +1,6 @@
+{
+  "title": "Enable Orderless Transactions",
+  "description": "Enable Orderless Transactions",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-25-06-enable-orderless-transactions/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/593"
+}
