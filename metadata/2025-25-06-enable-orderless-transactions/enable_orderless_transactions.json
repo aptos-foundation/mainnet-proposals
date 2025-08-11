@@ -1,0 +1,6 @@
+{
+  "title": "AIP 123: Enable Orderless Transactions",
+  "description": "AIP 123: Enable Orderless Transactions, see the AIP for details https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-123.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-25-06-enable-orderless-transactions/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/593"
+}
