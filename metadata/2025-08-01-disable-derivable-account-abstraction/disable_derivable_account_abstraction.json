@@ -1,6 +1,6 @@
 {
   "title": "Disable Derivable Account Abstraction",
-  "description": "Disable Derivable Account Abstraction, see AIP-113 for details",
+  "description": "Disable Derivable Account Abstraction due to security concerns with Account Abstraction.",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-08-01-disable-derivable-account-abstraction/disable_derivable_account_abstraction.move",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-113.md"
 }
