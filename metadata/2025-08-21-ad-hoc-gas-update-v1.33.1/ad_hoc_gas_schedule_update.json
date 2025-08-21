@@ -1,0 +1,6 @@
+{
+  "title": "Gas schedule update v1.33.1",
+  "description": "Ad-hoc gas schedule update to bump total dependency size allowed",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2025-08-21-ad-hoc-gas-update-v1.33.1/0-gas-schedule.move",
+  "discussion_url": "https://github.com/aptos-labs/aptos-networks/pull/148"
+}
