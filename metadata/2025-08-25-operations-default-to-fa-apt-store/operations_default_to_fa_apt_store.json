@@ -1,0 +1,6 @@
+{
+  "title": "Default APT operations to primary fungible store",
+  "description": "Implements AIP-85 default-store behavior",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-08-25-operations-default-to-fa-apt-store/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/458"
+}
