@@ -1,0 +1,6 @@
+{
+  "title": "OPERATIONS_DEFAULT_TO_FA_APT_STORE",
+  "description": "Enables the feature of AIP-85",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2025-08-25-operations-default-to-fa-apt-store/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/458"
+}
