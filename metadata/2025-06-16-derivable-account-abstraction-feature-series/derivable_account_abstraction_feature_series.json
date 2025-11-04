@@ -2,5 +2,5 @@
   "title": "Enable Derivable Account Abstraction, support sign in with Solana and Ethereum addresses",
   "description": "Enables Derivable Account Abstraction Feature Series, including AIP-113, AIP-121 and AIP-122, support sign in with Solana and Ethereum addresses",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2025-06-16-derivable-account-abstraction-feature-series/",
-  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/563"
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-113.md, https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-121.md, https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-122.md"
 }
