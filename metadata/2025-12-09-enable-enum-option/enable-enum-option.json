@@ -1,0 +1,6 @@
+{
+  "title": "Proposal to enable enum-based option",
+  "description": "See https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-134.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2025-12-09-enable-enum-option/proposal/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/641"
+}
