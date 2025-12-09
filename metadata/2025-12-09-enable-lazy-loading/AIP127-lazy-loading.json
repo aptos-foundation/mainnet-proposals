@@ -1,0 +1,6 @@
+{
+  "title": "Proposal to enable AIP 127 (lazy loading)",
+  "description": "See https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-127.md",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+}
