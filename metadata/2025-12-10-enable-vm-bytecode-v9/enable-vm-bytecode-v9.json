@@ -1,0 +1,6 @@
+{
+  "title": "Proposal to enable AIP 130 with bytecode format v9",
+  "description": "See https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-130.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2025-12-10-enable-vm-bytecode-v9/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/631"
+}
