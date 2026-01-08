@@ -1,6 +1,6 @@
 {
   "title": "Enable Auxiliary Info in Executor Onchain Config",
   "description": "Enables AIP-135",
-  "source_code_url": "https://github.com/aptos-labs/aptos-core/pull/16927",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-01-07-auxiliary-info/0-execution-config.move",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-135.md"
 }
