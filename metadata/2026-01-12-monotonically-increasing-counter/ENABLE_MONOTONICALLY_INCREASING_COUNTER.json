@@ -1,6 +1,6 @@
 {
   "title": "Enable Monotonically Increasing Counter",
   "description": "Enables AIP-135",
-  "source_code_url": "ttps://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2026-01-12-monotonically-increasing-counter/",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2026-01-12-monotonically-increasing-counter/0-execution-config.move",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-135.md"
 }
