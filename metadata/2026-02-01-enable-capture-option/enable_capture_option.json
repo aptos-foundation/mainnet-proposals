@@ -1,0 +1,6 @@
+{
+  "title": "Proposal to enable capturing option values in closures",
+  "description": "Enable ENABLE_CAPTURE_OPTION feature flag to allow capturing Option values in closures. See https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-134.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-02-01-enable-capture-option/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/641"
+}
