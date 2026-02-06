@@ -1,0 +1,6 @@
+{
+  "title": "Enable per block gas limit",
+  "description": "Enable per block gas limit",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+}
