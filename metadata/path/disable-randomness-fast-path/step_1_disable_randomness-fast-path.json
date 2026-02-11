@@ -1,0 +1,6 @@
+{
+  "title": "Disable randomness fast path",
+  "description": "Fast-path randomness shares are no longer help with block latency and should be disabled to save consensus computational cost.",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core/issues/18706"
+}
