@@ -1,6 +1,6 @@
 {
   "title": "Register Sui Derivable Account authentication function",
   "description": "Enables AIP-124",
-  "source_code_url": "https://github.com/aptos-labs/aptos-core/blob/main/aptos-move/framework/aptos-framework/sources/account/common_account_abstractions/sui_derivable_account.move",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2026-02-13-enable-sui-derivable-account/0-aip_124_registration.move",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-124.md"
 }
