@@ -1,0 +1,6 @@
+{
+  "title": "Update gas schedule",
+  "description": "This includes changes in https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-vX.YY.Z",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+}
