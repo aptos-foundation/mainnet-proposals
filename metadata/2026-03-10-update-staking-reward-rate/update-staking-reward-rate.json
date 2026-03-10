@@ -1,0 +1,6 @@
+{
+  "title": "AIP 140: reduce staking reward rate from 5.19% -> 2.6%",
+  "description": "This will reduce staking reward rate from 5.19% -> 2.6%. Full details: https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-140.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2026-03-10-update-staking-reward-rate/update-staking-reward-rate.move",
+  "discussion_url": "https://x.com/Aptos/status/2024216329826230392"
+}
