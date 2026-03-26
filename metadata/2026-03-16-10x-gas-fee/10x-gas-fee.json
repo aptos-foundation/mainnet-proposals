@@ -1,0 +1,6 @@
+{
+  "title": "AIP 141: Update gas schedule, increase gas fee 10x",
+  "description": "This will apply AIP 141, 10x gas fee increase, see details https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-141.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-03-16-10x-gas-fee",
+  "discussion_url": "https://x.com/Aptos/status/2024216329826230392"
+}

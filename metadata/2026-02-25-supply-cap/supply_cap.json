@@ -1,0 +1,6 @@
+{
+  "title": "Hard Supply Cap: 2.1 Billion APT",
+  "description": "Governance vote to establish a hard supply cap of 2.1B APT. Code implementation will follow upon approval. Part of AIP-140. Full details: https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-140.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/blob/main/sources/2026-02-25-supply-cap/supply_cap.move",
+  "discussion_url": "https://x.com/Aptos/status/2024216329826230392"
+}

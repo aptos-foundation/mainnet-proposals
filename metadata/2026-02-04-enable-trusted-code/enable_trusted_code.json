@@ -1,0 +1,7 @@
+{
+  "title": "Proposal to enable trusted code mode in Move VM",
+  "description": "Enable ENABLE_TRUSTED_CODE feature flag to reduce type checks for framework code in Move VM interpreter for better performance. See AIP-134 for details https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-134.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-02-02-enable-function-caches/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/641"
+}
+

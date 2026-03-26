@@ -1,0 +1,7 @@
+{
+  "title": "Proposal to enable function caches in Move VM interpreter",
+  "description": "Enable ENABLE_CALL_TREE_AND_INSTRUCTION_VM_CACHE feature flag to cache function instantiations and frame caches in Move VM interpreter for better performance. See AIP-134 for details https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-134.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-02-02-enable-function-caches/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/641"
+}
+

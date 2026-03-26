@@ -1,0 +1,6 @@
+{
+  "title": "Deploy aptos-trading (AIP 120) to mainnet",
+  "description": "This includes initial deployment of aptos-trading to mainnet",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-02-12-aptos-trading/proposal_deploy_aptos_trading/0-aptos-trading.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/598"
+}
