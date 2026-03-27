@@ -1,0 +1,6 @@
+{
+  "title": "Enable APT for Confidentiality",
+  "description": "Enable confidential transfers for APT.",
+  "source_code_url": "https://github.com/aptos-labs/aptos-core",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/discussions/663"
+}
