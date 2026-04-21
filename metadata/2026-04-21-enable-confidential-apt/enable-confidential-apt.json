@@ -1,0 +1,6 @@
+{
+  "title": "AIP 143: Enable APT for Confidentiality",
+  "description": "Enable confidential transfers for APT. See details in https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-143-confidential-apt.md",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-04-21-enable-confidential-apt/enable-confidential-apt.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/discussions/663"
+}
