@@ -1,0 +1,6 @@
+{
+  "title": "Enable Bulletproofs Batch Natives",
+  "description": "This enables feature flag bulletproofs_batch_natives, which is a dependecy for Confidential Asset",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-04-27-enable-bulletproofs-batch-natives",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/discussions/663"
+}
