@@ -1,0 +1,6 @@
+{
+  "title": "Proposal to enable bytecode format v10",
+  "description": "Enable VM binary format v10, which introduces support for Move abort-with-message (AIP-138, https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-138-move-aborts-with-message.md) and public structs and enums (AIP-142, https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-142-public-structs-and-enums.md).",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-05-11-enable-vm-bytecode-v10/0-features.move",
+  "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/649"
+}
