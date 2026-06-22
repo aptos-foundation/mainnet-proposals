@@ -1,6 +1,6 @@
 {
   "title": "Enable transaction limits",
-  "description": "AIP-146 staking-based transaction limits. Sets transaction_limits execution/IO tiers (2x/4x/8x by staked APT) and enables versioned_transaction_validation and transaction_limits. https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-146-staking-based-transaction-limits.md",
+  "description": "Enables staking-based transaction limits (see AIP-146 for details)",
   "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-06-22-enable-transaction-limits",
   "discussion_url": "https://github.com/aptos-foundation/AIPs/issues/669"
 }
