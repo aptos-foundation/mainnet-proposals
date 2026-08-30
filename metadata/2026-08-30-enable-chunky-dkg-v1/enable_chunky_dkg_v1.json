@@ -1,0 +1,6 @@
+{
+  "title": "Enable ChunkyDKG V1",
+  "description": "Enable ChunkyDKG in full V1 mode (1/2 secrecy, 2/3 reconstruction) and turn on the encrypted_transactions feature. Assumes encrypted-mempool framework resources are already initialized.",
+  "source_code_url": "https://github.com/aptos-foundation/mainnet-proposals/tree/main/sources/2026-08-30-enable-chunky-dkg-v1",
+  "discussion_url": "https://github.com/aptos-labs/aptos-core"
+}
